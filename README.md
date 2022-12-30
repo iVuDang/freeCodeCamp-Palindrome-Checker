@@ -4,7 +4,7 @@
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
 
 ## Preview:
-<img src="https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page/blob/main/Product%20landing%20page%20preview.png" width=100% height=100%>
+<img src="https://github.com/iVuDang/freeCodeCamp-Palindrome-Checker/blob/main/palindrome%20preview.png" width=100% height=100%>
 
 ## Technologies: 
 * HTML
